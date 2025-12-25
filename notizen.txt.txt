@@ -1,0 +1,4 @@
+Meine GitHub-Notizen
+
+– Erste Datei manuell erstellt
+– Commit & Push gelernt
